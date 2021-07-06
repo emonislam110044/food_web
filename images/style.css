@@ -1,3 +1,129 @@
-#font{
+.font{
     font-family: 'Noto Sans KR', sans-serif;
+    margin: 0px;
+}
+.display-flx{
+    display: flex;
+     
+     background-image: url(shapes/Frame\ 58.jpg);
+     background-repeat: no-repeat;
+    margin-bottom: 50px;
+     
+    
+}
+h1{
+    margin-bottom: 0px;
+}
+p{
+    color: gray;
+    margin-top: 50px;
+}
+
+
+ 
+#orange-color{
+    color: orange;
+}
+
+#test-deco{
+ text-decoration: none;
+ background-image: linear-gradient(red,tomato);
+  padding: 7px;
+ margin: 14px;
+ border-radius: 15px;
+ font-weight: 600;
+ color: ivory;
+ 
+    
+}
+#image_size{
+    width: 60%;
+    margin-left: 150px;
+}
+.margin-all{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 200px;
+}
+ 
+ 
+#section-2{
+    display: flex;
+    width: 100%;
+    background-image: url(shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    
+}
+#image-size-2{
+    width: 40%;
+    margin-left: 12%;
+}
+#margin-pera-heading-sec-2{
+    width: 50%;
+}
+
+#section-3{
+    display: flex;
+}
+#img-size-3{
+    width:250px;
+    margin: 50px;
+}
+#pra-final{
+    width: 300px;
+    margin-top:10px;
+    margin-left:60px ;
+
+}
+#final-heading{
+    margin-top:10px;
+    margin-left:60px;
+}
+#box{
+    border-radius: 20px;
+    margin: 30px ;
+    padding: 10px;
+    border: 2px solid gray;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+
+#center{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+#center-2{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 80px;
+     
+    margin-left: 50px
+}
+#section-4{
+    margin-top: 90px;
+    display: flex;
+    border: 02px solid gray;
+    box-shadow: 10px 10px 5px gray ;
+
+}
+#div-bottom{
+    width: 100px;
+   border-radius: 50px;
+    padding: 20px;
+    margin-left: 250px;
+}
+h3{
+    font-size: x-large;
+}
+#section-final{
+    background-image: url(shapes/7.png);
+ background-repeat: no-repeat;
+}
+
+#div-00{
+    margin-top: 200px;
+    text-align: center;
 }
