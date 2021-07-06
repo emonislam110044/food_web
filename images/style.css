@@ -107,13 +107,18 @@ p{
     display: flex;
     border: 02px solid gray;
     box-shadow: 10px 10px 5px gray ;
+    border-radius: 20px;
+    width: 90%;
+    margin-left:70px ;
 
 }
 #div-bottom{
-    width: 100px;
+    
+    height: 130px;
    border-radius: 50px;
     padding: 20px;
     margin-left: 250px;
+    
 }
 h3{
     font-size: x-large;
