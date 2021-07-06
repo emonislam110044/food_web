@@ -2,6 +2,70 @@
     font-family: 'Noto Sans KR', sans-serif;
     margin: 0px;
 }
+
+#backgroun-img{
+ 
+    background-image: url(food/Project\ Cover4.png);
+    background-repeat: no-repeat;
+    margin-bottom: 1px;
+    padding: 14px;
+ 
+}
+#div-001{
+    margin-left: 750px;
+    
+}
+#white-collor{
+    color: white;
+    font-size: larger;
+    font-weight: 800;
+}
+#p-white{
+    color: white;
+    font-size: 20px;
+    
+}
+
+#middel-button{
+    text-decoration: none;
+    color: gray;
+    background: wheat;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    backface-visibility: visible;
+}
+
+#head-000{
+    margin-top: 100px;
+    margin-left: 50px;  
+    font-size: 12px;
+    font-weight: 300;
+    color:white;
+    text-decoration: none;
+
+}
+#head-001{
+    text-align: center;
+}
+
+#head-002{
+    margin-left: 10px;
+    margin-top: 5px;
+    
+}
+#input{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-decoration: none;
+    background: turquoise;
+    color: black;
+    margin: 10px;
+    padding: 2px;
+    border-collapse: separate;
+    
+}
+
 .display-flx{
     display: flex;
      
